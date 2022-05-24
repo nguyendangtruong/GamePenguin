@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Game_Penguin_Android
-=======
+
 # GamePenguin
 <img src="images README/Screen.jpeg"><br><br>
 
@@ -36,7 +34,3 @@ Người chơi điều khiển nhân vật bằng cách vuốt qua trái để d
 2. Người chơi <br>
 Người chơi có nhiệm vụ đưa nhân vật vượt qua tất cả chứng ngại vật và về đích, nhân vật sẽ di chuyển liên tục và không thể dừng. Người chơi sẽ bắt đầu lại từ đầu nếu để xảy ra va chạm hoặc rơi xuống nước, người chơi đưa nhân vật về đích thì sẽ chiến thắng và tiếp tục màn chơi tiếp theo.
 
-#### Tài liệu
-Báo cáo(Link Google Drive) https://drive.google.com/drive/folders/1CWTHumLovL1aojkcSqGPN-ocHufXL2EZ?usp=sharing  <br>
-Link trên Google Play: đang update
->>>>>>> d2887623d790ef0095a9cd89083d9ab3562d8402
